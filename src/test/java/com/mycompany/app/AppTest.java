@@ -73,6 +73,6 @@ public class AppTest
         }
         System.err.println("ending at " + new java.util.Date());
 
-        assertTrue( true );
+        assertTrue( False );
     }
 }
